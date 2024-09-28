@@ -1,3 +1,3 @@
-const a=20
+const a=0
 const b=2
 console.log(a+b)
