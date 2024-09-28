@@ -1,3 +1,3 @@
-const a=2000
+const a=22
 const b=2
 console.log(a+b)
